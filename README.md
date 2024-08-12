@@ -42,9 +42,9 @@
       <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
       </a>
-      <a href="https://www.php.net/" target="_blank">
+      <p href="https://www.php.net/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-      </a>
+      </p>
       <a href="https://getbootstrap.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"
               height="40" />
