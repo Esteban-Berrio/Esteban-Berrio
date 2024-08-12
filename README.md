@@ -22,11 +22,11 @@
 
   <h3 align="center">Languages and Tools:</h3>
 
-  <p align="center">
-      <p target="_blank">
+  <a align="center">
+      <a target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
               alt="html5" width="40" height="40" />
-      </p>
+      </a>
       <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
               alt="css3" width="40" height="40" />
@@ -42,9 +42,9 @@
       <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
       </a>
-      <p href="https://www.php.net/" target="_blank">
+      <a href="https://www.php.net/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-      </p>
+      </a>
       <a href="https://getbootstrap.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"
               height="40" />
